@@ -1,5 +1,5 @@
 # Usage
-`./primes [options]`
+`./prime-plot [options]`
 
 # Options
 ```
